@@ -1,96 +1,54 @@
-# RE‑Raum · iki1uc
+# eOMG – Über‑Modus‑Achse
 
-Dieser Raum ist Teil der RE‑Matrix.  
-Der Name des Raumes wird automatisch aus dem Ordnernamen abgeleitet:
+## 1. Zweck
+eOMG ist die Über‑Modus‑Achse im Continuum.  
+Sie bildet die höchste Ebene der Wirkung, Intensität und Verstärkung.  
+Während rePP projiziert, reS codiert, reG verteilt und reB bewegt,  
+öffnet eOMG den Über‑Modus: die maximale Form der Wirkung.
 
-**RE‑Key:**  
-`<RENAME>`  
-(Der gleiche Wert wie in index.html → RENAME)
-
----
-
-## 🧩 Puzzle – Die RE‑Matrix (IX)
-
-Die RE‑Matrix besteht aus **9 Innenräumen**, die zusammen die IX‑Struktur bilden:
-
-- **REO** – Organisation  
-- **REZ** – Organised  
-- **REY** – Yield  
-- **RED** – Deep  
-- **REZ** – Zero  
-- **REO** – Output  
-- **REG** – Geo  
-- **REP** – PP‑Modus  
-- **REQ** – PQ‑Modus  
-
-Dieser Raum ist ein Teil dieses Puzzles.
+Sie ist die Achse, die Über‑Kapazität, Über‑Wert und Über‑Intensität trägt.
 
 ---
 
-## 🔄 Gegen‑Puzzle – Die RE‑Reverse‑Matrix (XI)
+## 2. Die 6‑Werte‑Norm (Mess‑Vektor)
 
-Zusätzlich existieren zwei äußere Räume:
+1. **Gravitation (G)** – Zentrum  
+2. **Magnetismus (M)** – Richtung  
+3. **Anziehung (A)** – Wertfluss  
+4. **Raumfluss (R)** – Continuum  
+5. **Zustand (Z)** – Phase  
+6. **Quelle (Q)** – Ursprung  
 
-- **REI** – Eingang (Y)  
-- **REU** – Ausgang (X)
-
-Damit entsteht die vollständige **XI‑Matrix**:
-
-**XI = 11 Räume = IX + IN + OUT**
-
-Dieser Raum wird in der Reverse‑Matrix automatisch richtig eingeordnet.
+Diese sechs Werte bilden den universellen Vektor aller RE‑Räume.
 
 ---
 
-## 🧬 Vector‑System (X4)
+## 3. Die Klammer für alle Menschen
 
-Jeder RE‑Raum ist kompatibel mit dem X4‑Vector‑System:
+- **Shogun = Raum**  
+- **Schach = Regel**  
+- **Skat = Mensch**
 
-- **IN**  
-- **OUT**  
-- **RE**  
-- **UNI**
-
-Der Vector‑Key wird in der index.html automatisch gesetzt.
+Damit versteht jeder die Achse.
 
 ---
 
-## 💤 ID‑Wake‑Up‑System
+## 4. Dateien dieses Raumes
 
-Dieser Raum verwendet das ID‑Wake‑Up‑System:
-
-1. ID wird erzeugt  
-2. ID sammelt alle Daten  
-3. ID weckt den Core auf  
-4. Erst dann beginnt der Code zu wirken
-
-Dies garantiert:
-
-- Stabilität  
-- Synchronität  
-- iki1uc‑Kompatibilität  
-- TMPΩ‑Kompatibilität  
+- **README.md** – Beschreibung  
+- **ID.html** – Identität  
+- **index.html** – Übersicht  
+- **achse-bedeutung-8.csv** – Bedeutungsfelder  
+- **achse-funktion-3.csv** – Funktionsachsen  
+- **achse-modul-12.csv** – Modulräume  
+- **achse-quelle-12.csv** – Quellenfelder  
+- **hebel-wirkung-auf-kapitalisierung-7.csv** – Hebel‑Wirkung  
+- **score-formel-5.csv** – Score‑Formel  
+- **zustand-bedeutung-4.csv** – Zustands‑Bedeutung  
 
 ---
 
-## 📁 Struktur dieses Raumes
-
-- `index.html` – universale RE‑Index  
-- `ID_UNI.js` – universale Identität  
-- `README.md` – Puzzle + Gegen‑Puzzle  
-- `id.html` – reine Identität  
-
----
-
-## 🧠 Zweck
-
-Dieser RE‑Raum ist ein Teil der stabilisierten iki1uc‑Matrix  
-und dient als adressierbarer Vector‑Knotenpunkt.
-
-Er ist vollständig kompatibel mit:
-
-- RE‑Matrix  
-- XI‑Matrix  
-- X4‑Vector  
-- TMPΩ  
-- iki1uc  
+## 5. Zusammenfassung
+eOMG ist die Achse der Über‑Intensität.  
+Sie trägt die höchste Form der Wirkung und verstärkt alle anderen Achsen.  
+Sie ist rein, klar, stabil und vektor‑gemäß.
